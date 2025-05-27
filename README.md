@@ -10,7 +10,7 @@ Include some badges such as buuild status, test coverage, etc.
 
 <http://badge_link>
 
-## Features
+**Features**
 - Feature 1
 - Feature 2
 - Feature 3
